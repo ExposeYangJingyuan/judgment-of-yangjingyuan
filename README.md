@@ -102,20 +102,20 @@
 
 <div align="right">
 <div style="display: inline-block; text-align: center;">
-审判长　　谢朝彪
+审 判 长　　谢朝彪
 
-审判员　　郑广芳
+审 判 员　　郑广芳
 
 人民陪审员　　刘瑞璐
 
-<div style="border: 3px solid red; color: red; display: inline-block; padding: 4px 12px; font-weight: bold;">
-  （国徽）武汉经济技术开发区人民法院
-</div>
+<p align="right">
+  <img src="./court_seal.svg" alt="（国徽）武汉经济技术开发区人民法院" width="180" />
+</p>
 
 <br />
 
 二〇二五年七月二十五日
 
-书记员　　石君
+书　记　员　　石　君
 </div>
 </div>
