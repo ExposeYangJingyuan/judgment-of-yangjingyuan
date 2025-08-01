@@ -102,9 +102,9 @@
 
 <div align="right">
 <div style="display: inline-block; text-align: center;">
-审 判 长　　谢朝彪
+审　判　长　　谢朝彪
 
-审 判 员　　郑广芳
+审　判　员　　郑广芳
 
 人民陪审员　　刘瑞璐
 
